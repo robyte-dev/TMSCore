@@ -31,3 +31,4 @@
 /home/robel/Downloads/AAU-Qiyas/M4-Lab-project/TmsApi/obj/Debug/net10.0/TmsApi.pdb
 /home/robel/Downloads/AAU-Qiyas/M4-Lab-project/TmsApi/obj/Debug/net10.0/TmsApi.genruntimeconfig.cache
 /home/robel/Downloads/AAU-Qiyas/M4-Lab-project/TmsApi/obj/Debug/net10.0/ref/TmsApi.dll
+/home/robel/Downloads/AAU-Qiyas/M4-Lab-project/TmsApi/obj/Debug/net10.0/TmsApi.sourcelink.json
